@@ -1,3 +1,4 @@
 body {font-size:20px;font-weight: 400}
 .container {position:relative;width:800px;left:50%;margin-left:-400px}
 .font-holder>p {font-size:12px}
+footer p {font-size:0.6em;text-align:center}
