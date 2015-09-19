@@ -1,5 +1,5 @@
 body {font-size:20px;font-weight: 400}
-.container {position:relative;width:800px;left:50%;margin-left:-400px}
+.container {position:relative;width:100%;max-width:800px;margin:0 auto;}
 .font-holder>p {font-size:12px}
-.font-holder>pre {font-size:16px;padding:16px;background-color:#f7f7f7;border-radius:3px;}
+.font-holder>pre {font-size:16px;padding:16px;background-color:#f7f7f7;border-radius:3px;word-break: break-all;white-space: normal;}
 footer p {font-size:0.6em;text-align:center}
